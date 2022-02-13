@@ -1,1 +1,1 @@
-mkdir backup
+mkdir data
